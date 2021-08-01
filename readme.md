@@ -1,5 +1,5 @@
 Version : laravel 5.7
-
+documentation :https://laravel.com/docs/5.7/configuration
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
